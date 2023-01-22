@@ -45,9 +45,9 @@ IDE и его расширения;
 # Q7 Какие ресурсы вы используете для развития в профессиональной сфере? Приведите несколько конкретных примеров (сайты, блоги и так далее). Какое направление развития вам более близко: JS-программирование, HTML/CSSверстка или что-то ещё? Какие ещё области знаний, кроме тех, что непосредственно относятся к работе, вам интересны?
 
 Сайты которые я могу выделить:
-Вёрстка: https://www.youtube.com/@FreelancerLifeStyle
-JS: https://learn.javascript.ru/
-CSS: https://css-tricks.com/
+- Вёрстка: https://www.youtube.com/@FreelancerLifeStyle
+- JS: https://learn.javascript.ru/
+- CSS: https://css-tricks.com/
 Направление к которому я стремлюсь это frontend-разработчик.
 Интересуюсь экономикой, инвестициями, криптовалютой.
 
@@ -56,7 +56,7 @@ CSS: https://css-tricks.com/
 Являюсь студентом “Высшая школа экономики, ФГБОУ ВО КНИТУ”. Изучением стека технологий для Frontend разработчика.
 Мой GitHub: https://github.com/ansalim01
 Последние работы:
-https://ansalim01.github.io/praktika-html-css/
-https://ansalim01.github.io/4p22-final-project-salimov-andrey/
-https://ansalim01.github.io/portfolio-salimov-andrey/home/
-https://ansalim01.github.io/4p22-frontend-Salimov-Andrey/homework_12/page_registration.html
+- https://ansalim01.github.io/praktika-html-css/
+- https://ansalim01.github.io/4p22-final-project-salimov-andrey/
+- https://ansalim01.github.io/portfolio-salimov-andrey/home/
+- https://ansalim01.github.io/4p22-frontend-Salimov-Andrey/homework_12/page_registration.html
