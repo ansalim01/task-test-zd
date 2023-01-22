@@ -47,10 +47,6 @@ cardRow.addEventListener('click', function (e) {
     }
     else if (e.target.closest(".card__text-link")) {
 
-        // toggleClass(e.target.closest(".card__items"))
-
-
-        // addRemoveClass(e.target)
         toggleClass(e.target.closest(".card__items"))
 
         addRemoveClass(e.target.closest(".card__items").querySelector(".card__item"));
